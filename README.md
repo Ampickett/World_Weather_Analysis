@@ -1,8 +1,7 @@
 # World_Weather_Analysis
 
-The purpose of this is to show weather descriptions and weather data. Customers are able to use input statements to filter the data for their weather temperature preferences, which can be used to identify potential travel destinations and nearby hotels. We created a travel itinerary, travel map, and a marker layer map.
+The purpose of this is to show weather descriptions and weather data. Customers are able to input their ideal outdoor temperature, which can be used to identify potential travel destinations and nearby hotels. We have created a travel itinerary, travel map, and a marker layer map.
 
-# Results
 
 We are able to display the hotels along with the current weather:
 
